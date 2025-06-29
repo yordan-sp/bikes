@@ -1,0 +1,91 @@
+{
+    "title": "Bike Collection",
+    "version": "2.0",
+    "resource_url": "",
+    "results": [
+        {
+            "title": "Road bike",
+            "description": "Road bicycles are bikes that are being built for travelling at speed on paved road.",
+            "thumb": "/img/road bike.jpg",
+            "href": "/road bike.json",
+            "price_range": "$800-$4600"
+        },
+        {
+            "title": "Single gear bike",
+            "description": "It has single gear ratio.",
+            "thumb": "/img/single gear bike.png",
+            "href": "/single gear bike.json",
+            "price_range": "$100-$300"
+        },
+        {
+            "title": "Recumbent",
+            "description": "A bike that places the rider in a laid-back recicling position.",
+            "thumb": "/img/recumbent.png",
+            "href": "/recumbent.json",
+            "price_range": "$600-$9820"
+        },
+        {
+            "title": "Hydraulic bike",
+            "description": "A hydraulic bike is a chailess bicycle that transfers power to the pedals by means of a liquid passing through tubes from hydraulic pump motor & back.",
+            "thumb": "/img/hydraulic bike.png",
+            "href": "/hydraulic bike.json",
+            "price_range": "$5000-$15000"
+        },
+        {
+            "title": "Mountain bike",
+            "description": "Is is designed for offroad cycling.",
+            "thumb": "/img/mountain bike.png",
+            "href": "/mountain bike.json",
+            "price_range": "$500-$6200"
+        },
+        {
+            "title": "City bike",
+            "description": "City bikes are designed for recreational cyclist who want to do short trips on paved roads.",
+            "thumb": "/img/city bike.png",
+            "href": "/city bike.json",
+            "price_range": "$300-$6800"
+        },
+        {
+            "title": "Fat bicycle",
+            "description": "It rides on snow, sand, mud.",
+            "thumb": "/img/fat bicycle.png",
+            "href": "/fat bicycle.json",
+            "price_range": "$500-$5200"
+        },
+        {
+            "title": "Folding bike",
+            "description": "It requires limited storage space.",
+            "thumb": "/img/folding bike.png",
+            "href": "/folding bike.json",
+            "price_range": "$400-$3400"
+        },
+        {
+            "title": "Touring bike",
+            "description": "Designed for all-day rides & casual tours.",
+            "thumb": "/img/touring bike.png",
+            "href": "/touring bike.json",
+            "price_range": "$1000-$5000"
+        },
+        {
+            "title": "BMX bike",
+            "description": "Bicycle used for sport, specifically stunds pr racing riding.",
+            "thumb": "/img/bmx bike.png",
+            "href": "/bmx bike.json",
+            "price_range": "$300-$1300"
+        },
+        {
+            "title": "e-bicycle",
+            "description": "Electrically assited pedal bike.",
+            "thumb": "/img/e-bicycle.png",
+            "href": "/e-bicycle.json",
+            "price_range": "$500-$10000"
+        },
+        {
+            "title": "Cruiser bike",
+            "description": "A cruiser bicycle, also known as a beach cruiser or (formerly) motobike, is a bicycle that usually combines balloon tires, an upright seating posture, a single-speed drivetrain, and straightforward steel construction with expressive styling.",
+            "thumb": "/img/cruiser bike.png",
+            "href": "/cruiser bike.json",
+            "price_range": "$500-$10000"
+        }
+    ]
+}
